@@ -1,6 +1,5 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Shihab Hossain</h1>
-<h3 align="center">A mobile application developer from Chittagong</h3>
+<h3 align="center">A software developer from Chittagong</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabagent47&label=Profile%20views&color=0e75b6&style=flat" alt="shihabagent47" /> </p>
 

@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shihab Hossain</h1>
 <h3 align="center">A software developer from Chittagong</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihabagent47&label=Profile%20views&color=0e75b6&style=flat" alt="shihabagent47" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shihabagent47" alt="shihabagent47" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/shihabh01347943" target="blank"><img src="https://img.shields.io/twitter/follow/shihabh01347943?logo=twitter&style=for-the-badge" alt="shihabh01347943" /></a> </p>
-
 - 🔭 I’m currently working on **NewsLexica**
 
 - 🌱 I’m currently learning **Swift , Node , React Native , Go**

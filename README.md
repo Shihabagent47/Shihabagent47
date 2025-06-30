@@ -1,24 +1,62 @@
-<h1 align="center">Hi 👋, I'm Shihab Hossain</h1>
-<h3 align="center">A software developer from Chittagong</h3>
+<h1 align="center">Hi there 👋, I'm Shihab Hossain</h1>
+<h3 align="center">Software Developer | Passionate about Building Scalable & Impactful Solutions</h3>
 
-- 🔭 I’m currently working on **NewsLexica**
+---
 
-- 🌱 I’m currently learning **Swift , Node , React Native , Go**
+🔭 Currently building: **[Chat Application](#)**  
+🌱 Learning: **Nest.js**, **Node.js**, **React Native**, **Angular**  
+💬 Ask me about: **Flutter**, **Android Development**  
+📫 Reach me at: **shihabhossain55@gmail.com**
 
-- 💬 Ask me about **Flutter, Android**
+---
 
-- 📫 How to reach me **shihabhossain55@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://twitter.com/shihabh01347943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shihabh01347943" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shihab-hossain-47b74b1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shihab-hossain-47b74b1b9" height="30" width="40" /></a>
-<a href="https://fb.com/shihab-hossain/pfbid02joir6swrmidbmrr9rdstkfpcdmvwk11nctm1bfycvwcrzrdseuvvdvgczkagdqbbl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shihab-hossain/pfbid02joir6swrmidbmrr9rdstkfpcdmvwk11nctm1bfycvwcrzrdseuvvdvgczkagdqbbl/" height="30" width="40" /></a>
+  <a href="https://twitter.com/shihabh01347943" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/shihab-hossain-47b74b1b9" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://fb.com/shihab-hossain/pfbid02joir6swrmidbmrr9rdstkfpcdmvwk11nctm1bfycvwcrzrdseuvvdvgczkagdqbbl/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook"/>
+  </a>
 </p>
 
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihabagent47&show_icons=true&locale=en&layout=compact" alt="shihabagent47" /></p>
+### 🛠️ Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihabagent47&show_icons=true&locale=en" alt="shihabagent47" /></p>
+- **Languages**: Dart, Java, JavaScript, TypeScript, Python, Swift, Go  
+- **Frameworks/Libraries**: Flutter, Node.js, React Native, NestJS, Express  
+- **Tools**: Git, Docker, Firebase, PostgreSQL, MongoDB  
+- **Platforms**: Android, Web, REST APIs, Microservices
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shihabagent47&" alt="shihabagent47" /></p>
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shihabagent47&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shihabagent47&show_icons=true&locale=en&theme=default" alt="GitHub Stats"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shihabagent47&theme=default" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🧠 Fun Facts
+
+- 🧩 I love turning ideas into real products  
+- 🎯 Always trying to improve 1% every day  
+- 🌍 Based in **Chittagong, Bangladesh**, working remotely and collaborating globally
+
+---
+
+> _“The best way to predict the future is to invent it.”_ — Alan Kay
+
